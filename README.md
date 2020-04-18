@@ -55,7 +55,7 @@
 ### Clone or download this repository
 
 ```sh
-git clone https://github.com/mohammadabdullahjawwad/YelpCamp.git
+git clonehttps://github.com/SufiaAshraf/YelpCamp.git
 ```
 
 ### Install dependencies
